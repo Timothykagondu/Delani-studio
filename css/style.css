@@ -103,3 +103,11 @@ html{
     padding-top: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.contact{
+    background-image: url(/Images/7.jpg);
+    background-position: center center;
+    background-size: cover;background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
