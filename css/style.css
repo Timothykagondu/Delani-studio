@@ -111,3 +111,28 @@ html{
     color: aliceblue;
     text-align: center;
 }
+.title{
+    padding: 6px;
+}
+.contact h2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.form-control::-webkit-input-placeholder{
+    color: aliceblue;
+
+}
+#MERGE1{
+    
+}
