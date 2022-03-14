@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 .pg1{
-    background-image: url("../Images/3.jpg");
+    background-image: url("../Images/3.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@ html{
 }
 .services{
     text-align: center;
-    background-image: url(../Images/8.jpg);
+    background-image: url(../Images/8.png);
     color: aliceblue;
     background-position: center;
     background-size: cover;
