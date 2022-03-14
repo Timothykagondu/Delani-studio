@@ -30,9 +30,10 @@ html{
     margin-top: 10%;
     padding-bottom: 30px;
     animation-iteration-count: infinite;
-    animation:bounce 2s infinite;
 }
-
+#mouse{
+    animation: bounce 2s infinite;
+}
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
         transform: translateY(0);
