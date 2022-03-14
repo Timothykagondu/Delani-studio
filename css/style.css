@@ -75,6 +75,16 @@ html{
     padding-top: 10%;
     padding-bottom: 10%;
 }
+.what-we-do {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.what-we-do .headings{
+  padding-bottom: 38px;
+}
 .container{
   align-items: center;
 }
